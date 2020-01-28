@@ -1,0 +1,22 @@
+{
+  "name": "common-shared-js",
+  "version": "1.0.0",
+  "description": "commonly function of javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpelaa/common-shared-js.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "jayaprakash elavarasan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpelaa/common-shared-js/issues"
+  },
+  "homepage": "https://github.com/jpelaa/common-shared-js#readme"
+}
